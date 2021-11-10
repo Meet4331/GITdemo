@@ -1,0 +1,2 @@
+user = github
+email = github@gmail.com
